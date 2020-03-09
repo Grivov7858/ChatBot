@@ -1,1 +1,1 @@
-# ChatBot
+# com.grivov.chatbot.ChatBot
